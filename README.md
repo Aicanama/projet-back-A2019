@@ -2,6 +2,11 @@
 
 MELOUNOU Inès
 
+Maintainability Badge : MARKDOWN
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/e1225a638a4d7fe2c0f0/maintainability)](https://codeclimate.com/github/Aicanama/projet-back-A2019/maintainability)
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -24,3 +29,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
