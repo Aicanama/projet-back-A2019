@@ -46,6 +46,9 @@ group :development do
   gem 'web-console', '>= 3.3.0'
 end
 
+#gem nokogiri
+gem 'nokogiri', '~> 1.4.2'
+
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '3.15.0'
