@@ -10,7 +10,7 @@ class StudentTest < ActiveSupport::TestCase
 
     student.name = "Bob"
     student.last_name = "Billy"
-    assert_not student.valid?
+    assert student.valid?
     
   end
 
