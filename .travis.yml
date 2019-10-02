@@ -20,3 +20,6 @@ deploy:
   api_key:
     secure: c5b5be01-ec0c-4090-9383-cf2f5b53159d
   app: test-heroku-travis
+  run:
+    - "bundle install --without development test"
+    - "bundle exec rails db:migrate" 
