@@ -7,10 +7,10 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'rails', '~> 5.2.3'
 
 # Use sqlite3 as the database for Active Record
-#gem 'sqlite3', '~> 1.3.6' 
+gem 'sqlite3', '~> 1.3.6' , group: [:development, :test]
 
 # PostgreSQ
-gem 'pg', '~> 1.3.6', group: [:production]
+gem 'pg', '~> 0.18.4', group: [:production]
 
 
 # Use Puma as the app server
