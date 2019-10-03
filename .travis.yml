@@ -21,5 +21,5 @@ deploy:
   skip_cleanup: true
   provider: heroku
   api_key:
-   secure: 60bc79a5-ece5-4cb8-8e5a-a31126d32155
+   secure: 574c61f41fc76f15b2a42fc23a11471e22e517e10e35058efaf9f6df75cd128eba257831797a2d65c092ef2e0c81b726892de747434f72696fb909bddd5f182d
   app: test-heroku-travis
