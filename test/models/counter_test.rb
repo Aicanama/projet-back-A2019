@@ -7,7 +7,7 @@ class CounterTest < ActiveSupport::TestCase
     counter.value = 0
 
     counter.increment!
-
+    
     assert counter.value = 1
     
   end

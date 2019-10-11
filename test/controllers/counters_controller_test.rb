@@ -37,7 +37,7 @@ class CountersControllerTest < ActionDispatch::IntegrationTest
 
     old_value = @counter.value
     patch counter_url(@counter)
-    assert old_value + 1 == Counter.find(@counter.id).value
+    assert old_value + 1 = Counter.find(@counter.id).value
     assert_redirected_to counter_url(@counter)
 
   end

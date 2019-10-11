@@ -1,24 +1,116 @@
 {
   "MiniTest": {
     "coverage": {
-      "D:/Melounou Ines/projet-back-A2019/app/models/counter.rb": [
+      "D:/melounou ines/projet-back-A2019/app/models/counter.rb": [
         1,
         1,
         2,
         null,
         null
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/models/application_record.rb": [
+      "D:/melounou ines/projet-back-A2019/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/models/student.rb": [
+      "D:/melounou ines/projet-back-A2019/app/models/student.rb": [
         1,
         1,
         null
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/controllers/counters_controller.rb": [
+      "D:/melounou ines/projet-back-A2019/app/controllers/students_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        2,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        2,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        4,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "D:/melounou ines/projet-back-A2019/app/controllers/application_controller.rb": [
+        1,
+        null
+      ],
+      "D:/melounou ines/projet-back-A2019/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "D:/melounou ines/projet-back-A2019/app/helpers/counters_helper.rb": [
+        1,
+        null
+      ],
+      "D:/melounou ines/projet-back-A2019/app/helpers/students_helper.rb": [
+        1,
+        null
+      ],
+      "D:/melounou ines/projet-back-A2019/app/controllers/counters_controller.rb": [
         1,
         1,
         null,
@@ -96,121 +188,29 @@
         null,
         null
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/controllers/application_controller.rb": [
-        1,
-        null
-      ],
-      "D:/Melounou Ines/projet-back-A2019/app/helpers/application_helper.rb": [
-        1,
-        null
-      ],
-      "D:/Melounou Ines/projet-back-A2019/app/helpers/counters_helper.rb": [
-        1,
-        null
-      ],
-      "D:/Melounou Ines/projet-back-A2019/app/helpers/students_helper.rb": [
-        1,
-        null
-      ],
-      "D:/Melounou Ines/projet-back-A2019/app/controllers/students_controller.rb": [
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        2,
-        1,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        2,
-        1,
-        null,
-        0,
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        1,
-        1,
-        2,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
-        1,
-        4,
-        null,
-        null,
-        null,
-        1,
-        2,
-        null,
-        null
-      ],
-      "D:/Melounou Ines/projet-back-A2019/app/channels/application_cable/channel.rb": [
+      "D:/melounou ines/projet-back-A2019/app/channels/application_cable/channel.rb": [
         0,
         0,
         0,
         0
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/channels/application_cable/connection.rb": [
+      "D:/melounou ines/projet-back-A2019/app/channels/application_cable/connection.rb": [
         0,
         0,
         0,
         0
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/jobs/application_job.rb": [
+      "D:/melounou ines/projet-back-A2019/app/jobs/application_job.rb": [
         0,
         0
       ],
-      "D:/Melounou Ines/projet-back-A2019/app/mailers/application_mailer.rb": [
+      "D:/melounou ines/projet-back-A2019/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
         0
       ]
     },
-    "timestamp": 1570710200
+    "timestamp": 1570786597
   }
 }
